@@ -10,6 +10,8 @@ def using_pop(arr)
   arr.pop
 end
 
-def pop_with_args(arr, arg)
-  arg.times {arr.pop}
+def pop_with_args(arr)
+  #arg.times {arr.pop}
+  arr.pop
+  arr.pop
 end
