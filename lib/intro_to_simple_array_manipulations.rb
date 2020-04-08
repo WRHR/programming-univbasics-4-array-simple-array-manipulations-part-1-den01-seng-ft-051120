@@ -12,6 +12,6 @@ end
 
 def pop_with_args(arr)
   #arg.times {arr.pop}
-  new_arr = arr.pop
-  new_arr = arr.pop
+  new_arr << arr.pop
+  new_arr << arr.pop
 end
