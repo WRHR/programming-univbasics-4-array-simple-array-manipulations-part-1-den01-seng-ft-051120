@@ -14,7 +14,7 @@ def pop_with_args(arr)
   new_arr = arr.pop(2)
 end
 
-def using shift(arr)
+def using_shift(arr)
   arr.shift
 end
 
